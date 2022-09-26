@@ -1,6 +1,5 @@
-
 import utils.game as game
 
 object = game.hangman()
 
-object.play()
+object.start_game()
